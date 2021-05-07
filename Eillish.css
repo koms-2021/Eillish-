@@ -1,0 +1,156 @@
+
+.tab{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+    color: blue;
+    margin-bottom: 10px;
+    
+    display: grid;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    height: 75px;
+    padding-top: 30px;
+       
+
+    
+}
+.nav{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 200px;
+    margin-top: -70px;
+    list-style-type: none;
+    margin-left: 200px;
+    font-size: large;
+}
+.nav li{
+    display: inline-block;
+    font-size: 14px;
+    
+    text-align: center;
+    
+}
+.logo h2{
+    margin-left: 120px ;
+    color: white;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    right:20px;
+    top: 16%;
+   margin-right: 430px;
+    padding:40px;
+    
+}
+a{
+    margin-left: 70px;
+}
+
+
+
+.parallax{
+ 
+    height: 100vh;
+    
+    background-attachment: fixed;
+    
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:block;
+    margin: 0;
+    padding: 0;
+}
+.logo{ background-image: url("image\ 1.jpg");}
+.exe1{background-image: url("image\ 2.jpg");}
+.exe2{background-image: url("image\ 4.jpg");}
+.exe3{ background-image: url("image5.jpeg");}
+.exe4{background-image: url("image6.jpeg");}
+.exe5{background-image: url("image7.jpeg");}
+
+
+.logo p{
+    color: white;
+    font-size: 15px;
+    font-family: cursive;
+    position: absolute;
+    top: 20%;
+    right: 20px;
+    width: 500px;
+ margin-right: 100px;
+    padding: 60px;
+    
+}
+.text1{
+   font-style: italic;
+    border: 3px solid black;
+    padding: 25px;
+    width: 200px;
+    float:right;
+    margin-top: 250px;
+    margin-right: 400px;
+}
+.text2{
+    border: 3px solid black;
+    padding: 25px;
+    width: 200px;
+    float:right;
+    margin-top: 60px;
+    margin-right:-510px  ;
+}
+.text3{
+    border: 3px solid black;
+    padding: 25px;
+    width: 200px;
+    float: right;
+    margin-top:440px ;
+    margin-right:-510px ;
+}
+.text1:hover , .text2:hover , .text3:hover{
+    background-color: whitesmoke;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
+.page{
+    font-size:larger;
+    color: white;
+    padding: 150px;
+    float: right;
+}
+.container{
+    width:150%;
+    background-color: white;
+   margin-top: 60px;
+  
+}
+.skills {
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    color: white;
+    
+  }
+  .html{
+    width: 45%; background-color:grey; 
+}  
+.css{
+    width: 75%; background-color: grey; 
+}
+.js{
+    width: 75%; background-color: grey; 
+}
+footer{
+    text-align: center;
+    background-color: gray;
+    color: white;
+    padding: 3px;
+}
+
+
+
+
+
+    
+   
